@@ -39,5 +39,3 @@ el número de ejercicio correspondiente.
 ## Autores
 
 1. Juan Gerardo Romero Uro [github](https://github.com/jgromerou)
-
-[Google](https://www.google.com)
